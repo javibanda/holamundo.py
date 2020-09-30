@@ -1,1 +1,1 @@
-# holamundo.py
+print("hola mundo")
